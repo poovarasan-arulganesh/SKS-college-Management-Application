@@ -1,0 +1,6 @@
+{
+  "name": "SKS Nursing ERP",
+  "description": "SKS College of Nursing ERP - Learn with Compassion. Serve with Care. Modern academic, clinical attendance, fees, and institutional management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
